@@ -1,0 +1,12 @@
+{
+  "transports": {
+    "loggly": {
+      "subdomain": "logs-01",
+      "token": "faedcad1-c302-4de3-bbf1-38de58661fd3",
+      "auth": {
+        "username": "adammysa",
+        "password": "pft0gETdJkc3"
+      }
+    }
+  }
+}
