@@ -8,4 +8,5 @@ winston.add(winston.transports.Loggly, {
     json:true
 });
 
-winston.log('info',"Attempting to test Loggly & Winston via Node.js. -AW");
+winston.log('info',"some info from AW index.js");
+winston.log('warn',"a warning from AW index.js");
